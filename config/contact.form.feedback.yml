@@ -1,0 +1,14 @@
+uuid: 5a2957e5-9b5c-4fb8-ba62-2df61efad0c4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - github@ptmkenny.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

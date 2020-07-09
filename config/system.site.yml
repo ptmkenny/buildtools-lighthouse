@@ -1,0 +1,14 @@
+uuid: e9784486-f278-4c45-8879-7b24f6c6d066
+name: buildtools-lighthouse
+mail: github@ptmkenny.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
